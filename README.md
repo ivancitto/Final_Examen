@@ -1,4 +1,8 @@
 "# Examen Final Cd" 
+Integrantes:
+Ivan Caceres G
+Luciano Meneses
+Ana Adrian
 ## Supuestos del PCA y su verificación
 
 ### 1. Linealidad
